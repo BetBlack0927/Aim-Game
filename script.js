@@ -26,7 +26,7 @@ function createButton(){
   newButton.style.position = "absolute";
   newButton.style.top = "100px";
   newButton.style.left = "880px";
-  newButton.style.backgroundColor = "#216681";
+  newButton.style.backgroundColor = "#3dad3d";
   newButton.style.color = "white";
   newButton.style.border = "none";
   newButton.style.padding = "15px 32px";
@@ -68,7 +68,7 @@ function createButton(){
     reloadButton.style.position = "absolute";
     reloadButton.style.top = "100px";
     reloadButton.style.left = "880px";
-    reloadButton.style.backgroundColor = "#216681";
+    reloadButton.style.backgroundColor = "#3dad3d";
     reloadButton.style.color = "white";
     reloadButton.style.border = "none";
     reloadButton.style.padding = "15px 32px";
