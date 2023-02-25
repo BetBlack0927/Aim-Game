@@ -1,5 +1,5 @@
 #Title {
-    color: rgba(26, 21, 21, 0.9);
+    color: rgba(255, 255, 255, 0.9);
     font-size: 70px;
     position: absolute;
     top: 10px;
@@ -13,7 +13,7 @@
 }
 
 #Timer{
-    color: rgba(26, 21, 21, 0.9);
+    color: rgba(255, 255, 255, 0.9);
     font-size: 70px;
     position: absolute;
     top: 10px;
@@ -27,7 +27,7 @@
 }
 
 #Score{
-    color: rgba(26, 21, 21, 0.9);
+    color: rgba(255, 255, 255, 0.9);
     font-size: 70px;
     position: absolute;
     top: 10px;
@@ -46,7 +46,7 @@
     position: absolute;
     top: 100px;
     left: 880px;
-    background-color: #216681;
+    background-color: #3dad3d;
     color: white;
     border: none;
     padding: 15px 32px;
